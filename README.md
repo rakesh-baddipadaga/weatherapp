@@ -1,4 +1,5 @@
 #Getting started with the app
+
 This is not just your regular weather dashboard which just shows you the data.It is a user friendly and resposnive
 react applications that gives you proper weather information about your exact loaction
 in hours and also weekly basis and to add more to that I have also made sure that
